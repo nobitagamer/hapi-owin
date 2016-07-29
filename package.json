@@ -1,0 +1,30 @@
+{
+  "name": "hapi-owin",
+  "version": "1.0.0",
+  "description": "OWIN server as a plugin for Hapi.js",
+  "main": "lib/hapi-owin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobitagamer/hapi-owin.git"
+  },
+  "keywords": [
+    "hapi",
+    "owin",
+    "nodejs"
+  ],
+  "author": "Nguyen Khac Trieu <trieunk@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nobitagamer/hapi-owin/issues"
+  },
+  "homepage": "https://github.com/nobitagamer/hapi-owin#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "edge": "^4.0.0",
+    "hapi": "^13.5.0"
+  }
+}
