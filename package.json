@@ -21,10 +21,12 @@
     "url": "https://github.com/nobitagamer/hapi-owin/issues"
   },
   "homepage": "https://github.com/nobitagamer/hapi-owin#readme",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
-    "edge": "^4.0.0",
-    "hapi": "^13.5.0"
+    "edge": "^5.9.2",
+    "hapi": "^14.0.0"
+  },
+  "engines": {
+    "node": "^5.*"
   }
 }
