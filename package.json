@@ -23,10 +23,11 @@
   "homepage": "https://github.com/nobitagamer/hapi-owin#readme",
   "devDependencies": {},
   "dependencies": {
-    "edge": "^5.9.2",
+    "debug": "^2.6.6",
+    "edge": "^7.10.0",
     "hapi": "^14.0.0"
   },
   "engines": {
-    "node": "^5.*"
+    "node": "^7.*"
   }
 }
